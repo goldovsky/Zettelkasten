@@ -3,6 +3,7 @@
 ## to install fonts quickly
 
 ```BASH
-mv * .fonts
-fc-cache -f -v
+# in the folder containing on the fonts to install
+mv * ~/.fonts
+fc-cache -fv # fc-cache -f -v
 ```
