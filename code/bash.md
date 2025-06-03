@@ -19,3 +19,9 @@ kill ${third column}
 # -R -> recursivity : all files and folders
 sudo chown fvlb5625:fvlb5625 -R .m2
 ```
+
+## Encode to base64
+
+```bash
+echo -n "" | base64
+```

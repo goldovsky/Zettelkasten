@@ -22,6 +22,7 @@ npm link
 # in project using the library
 sudo npm link @callbot/cb-common
 ```
+/!\ Do not commit the version change in the library repository! It will be handled in the publish part below.
 
 ## Publish
 Once the project is ready, publish the library
